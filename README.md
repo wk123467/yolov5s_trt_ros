@@ -5,7 +5,7 @@
 利用TensorRT对yolov5s进行加速，并将其应用于ROS，实现交通标志、红绿灯(直接输出路灯状态)、行人和车辆等交通场景的检测。
 
 在本人的jetson Agx xavier开发板上跑出约19ms~20ms/帧的速度，并可极好的检测目标物体，是配置自动驾驶算法的良好选择。在ROS中运行的效果如下：
-
+![img](https://github.com/wk123467/yolov5s_trt_ros/blob/master/Show_message.jpg)
 ## 项目构成：
 
 本项目分为两个部分：yolov5s-trt构建和添加ROS通信。
