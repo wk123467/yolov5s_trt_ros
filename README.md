@@ -7,7 +7,7 @@
 在本人的jetson Agx xavier开发板上跑出约19ms~20ms/帧的速度，并可极好的检测目标物体，是配置自动驾驶算法的良好选择。在ROS中运行的效果如下：
 
 <div align=center>
-<img src="https://github.com/wk123467/yolov5s_trt_ros/blob/master/Show_message.jpg" width="180" height="105"><img src="https://github.com/wk123467/yolov5s_trt_ros/blob/master/Show_node.jpg" width="180" height="105">
+<img src="https://github.com/wk123467/yolov5s_trt_ros/blob/master/Show_message.jpg" width="240" height="150"><img src="https://github.com/wk123467/yolov5s_trt_ros/blob/master/Show_node.jpg" width="240" height="150">
 </div>
 
 ## 项目构成：
