@@ -10,6 +10,10 @@
 <img src="https://github.com/wk123467/yolov5s_trt_ros/blob/master/Show_message.jpg" width="240" height="150"><img src="https://github.com/wk123467/yolov5s_trt_ros/blob/master/Show_node.jpg" width="240" height="150">
 </div>
 
+<div align=center>
+<img src="https://github.com/wk123467/yolov5s_trt_ros/blob/master/Show_message.jpg" width="240" height="150"><img src="https://github.com/wk123467/yolov5s_trt_ros/blob/master/Show_node.jpg" width="240" height="150">
+</div>
+
 ## 项目构成：
 
 本项目分为两个部分：yolov5s-trt构建和添加ROS通信。
