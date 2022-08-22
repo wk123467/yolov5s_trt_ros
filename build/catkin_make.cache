@@ -1,0 +1,2 @@
+usb_cam:yolo_detect
+-DCATKIN_DEVEL_PREFIX=/home/jetson/yolov5_trt_ros/devel -DCMAKE_INSTALL_PREFIX=/home/jetson/yolov5_trt_ros/install -G Unix Makefiles

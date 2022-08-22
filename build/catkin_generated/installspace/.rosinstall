@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jetson/yolov5_trt_ros/install/setup.sh

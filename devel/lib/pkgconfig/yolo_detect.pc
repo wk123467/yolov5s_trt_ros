@@ -1,0 +1,8 @@
+prefix=/home/jetson/yolov5_trt_ros/devel
+
+Name: yolo_detect
+Description: Description of yolo_detect
+Version: 0.0.0
+Cflags: -I/home/jetson/yolov5_trt_ros/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
