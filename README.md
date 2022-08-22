@@ -11,7 +11,7 @@
 </div>
 
 <div align=center>
-<img src="https://github.com/wk123467/yolov5s_trt_ros/blob/master/result%60.jpg" width="240" height="150"><img src="https://github.com/wk123467/yolov5s_trt_ros/blob/master/Show_node.jpg" width="240" height="150">
+<img src="https://github.com/wk123467/yolov5s_trt_ros/blob/master/result%60.jpg" width="240" height="150"><img src="https://github.com/wk123467/yolov5s_trt_ros/blob/master/result%60.jpg" width="240" height="150">
 </div>
 
 ## 项目构成：
